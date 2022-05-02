@@ -1,0 +1,2 @@
+# ANN_Implimentation_mnist
+ANN_IMPLIMENTATION_MNIST_DATASET
